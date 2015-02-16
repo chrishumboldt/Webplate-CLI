@@ -1,0 +1,12 @@
+{
+	"name" : "Webplate-CLI",
+	"version": "1.0.0",
+	"install" : {
+		"sources" : {
+			"webplate": 
+			[
+				""
+			]
+		}
+	}
+}
