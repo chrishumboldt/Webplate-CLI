@@ -1,7 +1,7 @@
 {
 	"name": "webplate-cli",
 	"description": "The Webplate command line tool.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"homepage": "https://github.com/chrishumboldt/webplate-cli",
 	"author": {
 		"name": "Chris Humboldt",
@@ -15,12 +15,10 @@
 	"bugs": {
 		"url": "https://github.com/chrishumboldt/webplate-cli/issues"
 	},
-	"licenses": [
-		{
-			"type": "Apache-2",
-			"url": "https://github.com/chrishumboldt/webplate-cli/blob/master/LICENSE-Apache-2"
-		}
-	],
+	"licenses": [{
+		"type": "Apache-2",
+		"url": "https://github.com/chrishumboldt/webplate-cli/blob/master/LICENSE-Apache-2"
+	}],
 	"main": "lib/webplate-cli",
 	"engines": {
 		"node": ">= 0.8.0"

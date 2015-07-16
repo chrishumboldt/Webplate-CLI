@@ -1,10 +1,9 @@
 {
-	"name" : "Webplate-CLI",
-	"version": "1.0.0",
-	"install" : {
-		"sources" : {
-			"webplate": 
-			[
+	"name": "Webplate-CLI",
+	"version": "1.0.1",
+	"install": {
+		"sources": {
+			"webplate": [
 				""
 			]
 		}
