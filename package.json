@@ -1,7 +1,7 @@
 {
 	"name": "webplate-cli",
 	"description": "The Webplate command line tool.",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"homepage": "https://github.com/chrishumboldt/webplate-cli",
 	"author": {
 		"name": "Chris Humboldt",
