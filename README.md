@@ -1,3 +1,5 @@
+**NO LONGER SUPPROTED**
+
 # Webplate-CLI
 
 The Webplate command line tool.
